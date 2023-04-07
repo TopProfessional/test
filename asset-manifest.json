@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1cd23229.css",
+    "main.js": "/static/js/main.d10d0f36.js",
+    "static/media/Acumin-Variable-Concept.ttf": "/static/media/Acumin-Variable-Concept.c59fb2bd1f37a1433b15.ttf",
+    "static/media/Myriad-Pro-Regular.ttf": "/static/media/Myriad-Pro-Regular.c59859cec849233be7f8.ttf",
+    "static/media/product1.png": "/static/media/product1.d7be9ef650113724306a.png",
+    "static/media/logo.png": "/static/media/logo.910a4c1407f9c4df1d08.png",
+    "index.html": "/index.html",
+    "main.1cd23229.css.map": "/static/css/main.1cd23229.css.map",
+    "main.d10d0f36.js.map": "/static/js/main.d10d0f36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cd23229.css",
+    "static/js/main.d10d0f36.js"
+  ]
+}
